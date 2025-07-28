@@ -17,14 +17,10 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-```javascript
-const InfoJusto = {
-  location: "Orihuela, Alicante",
-  languages: ["Español (Nativo)", "Inglés (B1)", "Valenciano (B1)"],
-  focus: "IA, Automatización, Backend/Frontend, Redes",
-  goal: "Seguir creciendo profesionalmente y aportar soluciones eficientes",
-};
-```
+>✔ Actualmente vivo en Orihuela, Alicante 🇪🇸<br>
+✔ Idiomas que hablo: Español (Nativo), Inglés (B1), Valenciano (B1) 🌍<br>
+✔ Mi enfoque principal es: IA, Automatización, Backend/Frontend, Redes 💻<br>
+✔ Mi objetivo es: Seguir creciendo profesionalmente y aportar soluciones eficientes 🚀<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
