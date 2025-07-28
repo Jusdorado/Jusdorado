@@ -1,27 +1,3 @@
-# Justo García Ferrández
-
-Programador junior especializado en IA y Redes, en proceso de aprendizaje de automatizaciones de ia
-
-Orihuela alicante
-idiomas que manejo el español nativo, ingles b1, valenciano b1, el que daban al terminar la eso
-estoy enfocado en ia y programacion a parte por temas de que soy tecnico de redes pero quiero formarme en programacion back o front, me da igual cual
-no tengo lema o eslogan
-
-Actualmente, domino python, astro, github, html, css, java, xml, y varios mas relacionados con paginas web que ahora mismo no recuerdo pero mete varios, tambien menciona make y n8n
-
-para redes uso cisco packet traccer y de ia lo dicho make n8n y tal
-
-uso node js, astro y visual studio o intel j
-
-te adjunto mi curriculum para adjuntar alguna cosa que falte
-porque tengo un bootcamp hecho tambien hecho y en la plantilla creo que sale pero esta el proyecto de tfg de una pagina web de los moros almohabenos, tenlaen cuenta
-
-y los badges graficos, los que hay en la plantilla adaptalos a como mas o menos ves de lo mio
-
-mi nombre de usuario de github es Jusdorado por si lo necesitas tambien
-
-Aquí tienes una plantilla README de perfil profesional para tu GitHub, especialmente adaptada a tu experiencia, formación y tecnologías. Puedes copiarla directamente y ajustar cualquier detalle personal que prefieras.
-
 # 👨💻 Justo García Ferrández — Programador Junior de IA y Redes
 
 <div align="center">
