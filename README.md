@@ -1,12 +1,11 @@
-# 👨‍💻 Raúl López Ricarte - Desarrollador Full Stack
+# 👨‍💻 Justo García Ferrández — Programador Junior en IA, Automatización y Redes
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Backend+Developer+%7C+Frontend+Enthusiast;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)
 
-[![GitHub followers](https://img.shields.io/github/followers/Raullopez20?style=social)](https://github.com/Raullopez20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raul-lopez-ricarte-40011a318)
-[![Email](https://img.shields.io/badge/Email-raullopez20r%40gmail.com-red?style=flat&logo=gmail)](mailto:raullopez20r@gmail.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Programador+Junior+en+IA+y+Redes;Apasionado+por+la+automatización+y+el+backend;Siempre+aprendiendo+y+optimizando)
+
+[![GitHub followers](https://img.shields.io/github/followers/Jusdorado?style=social)](https://github.com/Jusdorado)
+[![Email](https://img.shields.io/badge/Email-Justo.garcia.2004%40gmail.com-red?style=flat&logo=gmail)](mailto:jusgarfer04@gmail.com)
 
 </div>
 
@@ -14,29 +13,24 @@
 
 ## 🚀 Sobre mí
 
-¡Hola! 👋 Soy **Raúl López Ricarte**, un desarrollador Full Stack especializado en **backend** con gran pasión por el **frontend** y el diseño web. Mi objetivo es crear aplicaciones eficientes, escalables y con una experiencia de usuario excepcional.
+¡Hola! 👋 Soy **Justo García Ferrández**, programador junior con base en **Orihuela (Alicante)**. Me especializo en **inteligencia artificial**, **automatización** y **redes**. Actualmente, estoy formándome también en programación web, tanto **frontend** como **backend**, y tengo experiencia con automatizaciones usando herramientas como **Make** y **n8n**.
 
 ```javascript
-const raulLopez = {
-    location: "Valencia, España 🇪🇸",
-    languages: ["Español (Nativo)", "Inglés (Intermedio)"],
-    currentFocus: "Desarrollo de Aplicaciones Multiplataforma",
-    passion: "Backend Development & Frontend Design",
-    motto: "El aprendizaje nunca se detiene 🚀"
+const justoGarcia = {
+  location: "Orihuela, Alicante, España 🇪🇸",
+  languages: ["Español (Nativo)", "Inglés (B1)", "Valenciano (B1)"],
+  focus: "IA, Automatización, Backend/Frontend, Redes",
+  goal: "Seguir creciendo profesionalmente y aportar soluciones eficientes",
 };
 ```
-
-### 📍 Actualmente me especializo en:
-- 🔧 Desarrollo de aplicaciones **multiplataforma** (DAM)
-- ⚙️ Soluciones eficientes para **backend**
-- 🎨 Implementaciones atractivas y funcionales en **frontend**
-- 🏢 Sistemas empresariales y gestión de infraestructura
-
----
 
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white.io/badge/Java-ED8B00?style=for-the-badge&logo=java&://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript://img.shields.io/badge/XML-EB8C1A?style=for-the-badge&logo=xml&logoColor=whiteields.io/badge/Astro-FF5D01?style=for-the-badge&logo.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js️ Herramientas y Automatización
+![Make](https://img.shields.io/badge/Make-A0A0A0?style=for-the-badge&logo=gnu&logoColor=white.io/badge/n8n-E87722?style=for-the-badge&logo=n8n&logo://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logo](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor= Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logo Tecnologías IA & DevOps
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColorimg.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white.shields.io/badge/LangChain-000000?style=for-the-badgeields.io/badge/OpenAI-412991?style=for-the-badge&logo=open>
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -73,16 +67,17 @@ const raulLopez = {
 
 ## 💼 Experiencia Profesional
 
-### 🏦 **Técnico en Caja Rural Central**
-*Enero 2023 – Junio 2023 | Enero 2025 – Junio 2025*
+### 🖥️ Técnico en Convotis Iberia
 
-- 👥 **Administración de usuarios** y grupos mediante Active Directory
-- 🛠️ **Soporte técnico** y gestión de incidencias de infraestructura informática y sistemas BMS
-- 🤖 **Automatización** y tareas de mantenimiento en entornos corporativos
-- 🔐 **Colaboración** en entornos de seguridad y gestión de datos sensibles
+*Mar. 2025 – Presente*
 
-### 💻 **Desarrollador Web Freelance**
-*Marzo 2025 - Junio 2025*
+- Administración de usuarios y grupos mediante Active Directory.
+- Soporte técnico y gestión de incidencias de infraestructura informática y sistemas BMS.
+- Automatización de tareas de mantenimiento y procesos corporativos con Make/n8n.
+- Colaboración en proyectos de seguridad avanzada y protección de datos.
+
+
+### 🌐 Desarrollador Web Freelance (Proyecto Oficial para Comparsa Moros Almohábenos)
 
 **Proyecto oficial para Comparsa Moros Almohábenos**
 - 🌐 Creación y despliegue de **web institucional** completa
@@ -98,16 +93,16 @@ const raulLopez = {
 <tr>
 <td>
 
-**🎯 Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-📍 *IES Las Espeñetas – Generalitat Valenciana*  
-📅 *2023-2025*
+**🎯 Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
+IES Las Espeñetas, Orihuela  
+2023–2025
 
 </td>
 <td>
 
-**🔧 Grado Medio en Sistemas Microinformáticos y Redes (SMR)**  
-📍 *IES Las Espeñetas – Generalitat Valenciana*  
-📅 *2021-2023*
+**🔬 Bachillerato de Ciencias**  
+IES Las Espeñetas, Orihuela  
+2020–2023
 
 </td>
 </tr>
@@ -115,17 +110,25 @@ const raulLopez = {
 
 ---
 
+### 📜 Certificaciones
+
+- Bootcamp en Inteligencia Artificial (160h) — Convotis/Accenture, Jun. 2025
+- Protección contra Spear Phishing — MetaCompliance, Mar. 2025
+- Protección contra Ransomware — MetaCompliance, Jul. 2025
+- Data Protection Training — MetaCompliance, Mar. 2025
+
+
 ## 🌟 Habilidades Profesionales
 
 <div align="center">
 
-| **Técnicas** | **Blandas** |
-|:---:|:---:|
-| Metodologías Ágiles | Adaptabilidad |
-| Resolución de problemas | Trabajo en equipo |
-| Arquitectura de software | Rápido aprendizaje |
-| Gestión de bases de datos | Responsabilidad |
-| APIs RESTful | Creatividad |
+| **Técnicas**                   | **Blandas**         |
+|:------------------------------:|:-------------------:|
+| Automatización de procesos     | Trabajo en equipo   |
+| Administración de sistemas/redes | Resolución de problemas |
+| Desarrollo web                 | Adaptabilidad       |
+| Inteligencia Artificial aplicada | Proactividad        |
+| Soporte técnico IT             | Aprendizaje continuo|
 
 </div>
 
@@ -133,23 +136,6 @@ const raulLopez = {
 
 ## 📂 Proyectos Destacados
 
-### 🏋️‍♂️ **GymBros App**
-> Aplicación completa de gestión para gimnasios
-
-- **Funcionalidades:** Gestión de usuarios, asignación de roles, seguimiento de entrenamientos
-- **Tecnologías:** Java, MySQL, Android Studio
-- **Estado:** ✅ Completado
-
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Raullopez20/GymBros_App)
-
-### ⌚ **Landing Page Infinity-Smartwatch**
-> Landing page interactiva para producto tecnológico
-
-- **Funcionalidades:** Animaciones avanzadas, sistema de mensajería, gestión de precios
-- **Tecnologías:** HTML5, CSS3, JavaScript, Responsive Design
-- **Estado:** ✅ Completado
-
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Raullopez20/Infinity-Smartwatch)
 
 ---
 
@@ -157,11 +143,11 @@ const raulLopez = {
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Raullopez20&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=tokyonight&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Raullopez20&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight)
 
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Raullopez20&theme=tokyonight)
+![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=tokyonight)
 
 </div>
 
@@ -173,29 +159,19 @@ const raulLopez = {
 
 ¿Tienes un proyecto interesante? ¿Buscas colaborar? ¡Me encantaría conocer más!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raullopez20r)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raullopez20)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jusdorado)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullopez20r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([https://tu-portfolio.com](https://raullopez20.github.io/PORTAFOLIO_RAUL_LOPEZ/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([https://tu-portfolio.com](https://Linktr.ee/m0k4/))
 
-**📞 Teléfono:** (+34) 622 58 28 12
+**📞 Teléfono:** (+34) 644 61 91 18
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Filosofía de trabajo
-
-> *"El aprendizaje nunca se detiene y las mejores soluciones nacen de la creatividad y el trabajo en equipo."*
->
-> — **Raúl López Ricarte**
 
 ---
 
 ⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!** ⭐
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Raullopez20.Raullopez20)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jusdorado.Jusdorado)
 
 </div>
