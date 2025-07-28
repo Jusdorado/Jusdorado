@@ -143,7 +143,7 @@ IES Las Espeñetas, Orihuela
 
 ---
 
-## 📞 ¡Conecta conmigo!
+## 📞 ¡Hablemos!
 
 <div align="center">
 
@@ -162,6 +162,8 @@ IES Las Espeñetas, Orihuela
 
 ⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!** ⭐
 
+<div align="center">
+  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jusdorado.Jusdorado)
 
 </div>
