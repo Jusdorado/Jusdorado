@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Programador+Junior+en+IA+y+Redes;Apasionado+por+la+automatización+y+el+backend;Siempre+aprendiendo+y+optimizando)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Programador+Junior+en+IA+y+Redes;Apasionado+por+la+automatización;Siempre+aprendiendo+y+optimizando)
 
 [![GitHub followers](https://img.shields.io/github/followers/Jusdorado?style=social)](https://github.com/Jusdorado)
-[![Email](https://img.shields.io/badge/Email-Justo.garcia.2004%40gmail.com-red?style=flat&logo=gmail)](mailto:jusgarfer04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Justo.garcia.2004%40gmail.com-red?style=flat&logo=gmail)](mailto:justo.garcia.2004@gmail.com)
 
 </div>
 
@@ -16,8 +16,8 @@
 ¡Hola! 👋 Soy **Justo García Ferrández**, programador junior con base en **Orihuela (Alicante)**. Me especializo en **inteligencia artificial**, **automatización** y **redes**. Actualmente, estoy formándome también en programación web, tanto **frontend** como **backend**, y tengo experiencia con automatizaciones usando herramientas como **Make** y **n8n**.
 
 ```javascript
-const justoGarcia = {
-  location: "Orihuela, Alicante, España 🇪🇸",
+const InfoJusto = {
+  location: "Orihuela, Alicante",
   languages: ["Español (Nativo)", "Inglés (B1)", "Valenciano (B1)"],
   focus: "IA, Automatización, Backend/Frontend, Redes",
   goal: "Seguir creciendo profesionalmente y aportar soluciones eficientes",
@@ -28,16 +28,10 @@ const justoGarcia = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white.io/badge/Java-ED8B00?style=for-the-badge&logo=java&://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript://img.shields.io/badge/XML-EB8C1A?style=for-the-badge&logo=xml&logoColor=whiteields.io/badge/Astro-FF5D01?style=for-the-badge&logo.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js️ Herramientas y Automatización
-![Make](https://img.shields.io/badge/Make-A0A0A0?style=for-the-badge&logo=gnu&logoColor=white.io/badge/n8n-E87722?style=for-the-badge&logo=n8n&logo://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logo](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor= Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logo Tecnologías IA & DevOps
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColorimg.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white.shields.io/badge/LangChain-000000?style=for-the-badgeields.io/badge/OpenAI-412991?style=for-the-badge&logo=open>
-
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,17 +43,13 @@ const justoGarcia = {
 
 ### 🗄️ Backend & Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
 
 ### 🛠️ Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -145,9 +135,9 @@ IES Las Espeñetas, Orihuela
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=tokyonight&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight)
-
 ![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -160,8 +150,8 @@ IES Las Espeñetas, Orihuela
 ¿Tienes un proyecto interesante? ¿Buscas colaborar? ¡Me encantaría conocer más!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jusdorado)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raullopez20r@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([https://tu-portfolio.com](https://Linktr.ee/m0k4/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justo.garcia.2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]((https://Linktr.ee/m0k4/))
 
 **📞 Teléfono:** (+34) 644 61 91 18
 
