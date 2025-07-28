@@ -1,157 +1,129 @@
-# 👨💻 Justo García Ferrández — Programador Junior de IA y Redes
+# 👨‍💻 Justo García Ferrández — Programador Junior en IA, Automatización y Redes
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Programador+Junior+en+IA+y+Redes;Apasionado+por+la+automatización+y+el+backend;Siempre+aprendiendo+y+optimizando)
 
-  
-[
-[ <!-- Pon tu enlace personalizado aquí -->
-[
+[![GitHub followers](https://img.shields.io/github/followers/Jusdorado?style=social)](https://github.com/Jusdorado)
+[![Email](https://img.shields.io/badge/Email-jusgarfer04%40gmail.com-red?style=flat&logo=gmail)](mailto:jusgarfer04@gmail.com)
 
 </div>
+
+---
 
 ## 🚀 Sobre mí
 
-¡Hola! 👋 Soy **Justo García Ferrández**, programador junior con base en **Orihuela (Alicante)**. Me especializo en **inteligencia artificial** y **redes**, y estoy ampliando mis competencias en automatizaciones (Make, n8n) y desarrollo web. Cuento con experiencia en administración de sistemas, soporte técnico y gestión de infraestructuras TI. Estoy motivado por la eficiencia, la innovación y el aprendizaje continuo tanto en IA como en programación y redes.
+¡Hola! 👋 Soy **Justo García Ferrández**, programador junior con base en **Orihuela (Alicante)**. Me especializo en **inteligencia artificial**, **automatización** y **redes**. Actualmente, estoy formándome también en programación web, tanto **frontend** como **backend**, y tengo experiencia con automatizaciones usando herramientas como **Make** y **n8n**.
 
 ```javascript
 const justoGarcia = {
-    location: "Orihuela, Alicante, España 🇪🇸",
-    languages: ["Español (Nativo)", "Inglés (B1)", "Valenciano (B1)"],
-    currentFocus: "IA, Automatizaciones, Programación (Backend/Frontend), Redes",
-    about: "Especialista junior en sistemas y redes, apasionado por la integración de soluciones inteligentes y la automatización.",
+  location: "Orihuela, Alicante, España 🇪🇸",
+  languages: ["Español (Nativo)", "Inglés (B1)", "Valenciano (B1)"],
+  focus: "IA, Automatización, Backend/Frontend, Redes",
+  goal: "Seguir creciendo profesionalmente y aportar soluciones eficientes",
 };
-```
-
-
-## 🛠️ Stack Tecnológico
-
+🛠️ Stack Tecnológico
 <div align="center">
-
-### 💻 Lenguajes y Tecnologías
-
+💻 Lenguajes
 
 
 
 
 
 
-### ⚙️ Herramientas y Automatización
+⚙️ Automatización & DevOps
 
 
 
 
+🌐 Web & Frameworks
 
-### 🧠 Tecnologías IA & DevOps
 
+
+
+🖧 Redes y Sistemas
+
+
+</div>
+💼 Experiencia Profesional
+🖥️ Técnico de Soporte en Convotis Iberia
+Marzo 2025 – Actualidad
+
+Administración de usuarios y permisos con Active Directory
+
+Automatización de procesos internos con Make y n8n
+
+Soporte técnico a sistemas informáticos empresariales
+
+Participación en proyectos de seguridad y redes
+
+🌐 Desarrollador Web Freelance (TFG)
+Marzo 2025 – Junio 2025
+
+Proyecto: Web Oficial Comparsa Moros Almohábenos
+
+Desarrollo completo de sitio institucional con Astro y React
+
+Implementación de zona privada, calendario de eventos y galería
+
+Despliegue en producción con GitHub Pages
+
+🎓 Formación Académica
+Grado Medio en Sistemas Microinformáticos y Redes (SMR)
+IES Las Espeñetas | 2021 – 2023
+
+Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)
+IES Las Espeñetas | 2023 – 2025 (en curso)
+
+🧾 Certificaciones
+Bootcamp en IA (160h) – Convotis/Accenture
+
+Protección contra Spear Phishing – MetaCompliance
+
+Protección contra Ransomware – MetaCompliance
+
+Data Protection Training – MetaCompliance
+
+🌟 Habilidades Profesionales
+Técnicas	Blandas
+Automatización de procesos	Trabajo en equipo
+IA aplicada	Resolución de problemas
+Administración de redes	Aprendizaje constante
+Desarrollo web	Adaptabilidad
+Soporte técnico IT	Responsabilidad
+
+📂 Proyectos Destacados
+🏛️ Web Comparsa Moros Almohábenos
+Sitio web institucional con funcionalidades avanzadas
+
+Stack: Astro · React · TailwindCSS · MySQL · GitHub Pages
+
+Funciones: Galería, calendario dinámico, zona de socios
+
+Estado: ✅ Finalizado
+🔗 Repositorio público
+
+<!-- Añade más si quieres -->
+📊 Estadísticas de GitHub
+<div align="center">
 
 
 
 </div>
-
-## 💼 Experiencia Profesional
-
-### 🖥️ Técnico en Convotis Iberia
-
-*Mar. 2025 – Presente*
-
-- Administración de usuarios y grupos mediante Active Directory.
-- Soporte técnico y gestión de incidencias de infraestructura informática y sistemas BMS.
-- Automatización de tareas de mantenimiento y procesos corporativos con Make/n8n.
-- Colaboración en proyectos de seguridad avanzada y protección de datos.
-
-
-### 🌐 Desarrollador Web Freelance (Proyecto Oficial para Comparsa Moros Almohábenos)
-
-*Mar. 2025 – Jun. 2025*
-
-- Desarrollo completo de web institucional: Astro, React, TypeScript, TailwindCSS, MySQL.
-- Implementación de zona de socios, sistema de galería y calendario.
-- Control de versiones con GitHub y despliegue vía GitHub Pages.
-
-
-## 🎓 Formación Académica
-
-<table>
-<tr>
-<td>
-
-**🎯 Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)**  
-IES Las Espeñetas, Orihuela  
-2023–2025
-
-</td>
-<td>
-
-**🔬 Bachillerato de Ciencias**  
-IES Las Espeñetas, Orihuela  
-2020–2023
-
-</td>
-</tr>
-</table>
-
-### 📜 Certificaciones
-
-- Bootcamp en Inteligencia Artificial (160h) — Convotis/Accenture, Jun. 2025
-- Protección contra Spear Phishing — MetaCompliance, Mar. 2025
-- Protección contra Ransomware — MetaCompliance, Jul. 2025
-- Data Protection Training — MetaCompliance, Mar. 2025
-
-
-## 🌟 Habilidades Profesionales
-
+📞 Contacto
 <div align="center">
-
-| **Técnicas**                   | **Blandas**         |
-|:------------------------------:|:-------------------:|
-| Automatización de procesos     | Trabajo en equipo   |
-| Administración de sistemas/redes | Resolución de problemas |
-| Desarrollo web                 | Adaptabilidad       |
-| Inteligencia Artificial aplicada | Proactividad        |
-| Soporte técnico IT             | Aprendizaje continuo|
-
-</div>
-
-## 📂 Proyectos Destacados
-
-### 🏢 **Web para Comparsa Moros Almohábenos**
-
-> Web institucional completa con espacio privado y galería
-
-- **Stack:** Astro, React, TypeScript, TailwindCSS, MySQL, GitHub Pages
-- **Funcionalidades:** Diseño visual, gestión de socios, sistema de galería y calendario
-- **Estado:** ✅ Completado
-
-<!-- Pon el enlace a tu repo público si lo tienes disponible -->
-[
-
-<!-- Puedes añadir más proyectos aquí siguiendo el esquema -->
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
+¿Te interesa colaborar conmigo o tienes una propuesta interesante?
 
 
-
-
-</div>
-
-## 📞 Contacto
-
-<div align="center">
-
-¿Buscas colaboración o tienes una propuesta? ¡No dudes en escribirme!
-
-[
-[
-<!-- Agrega tu LinkedIn o portfolio cuando estén disponibles -->
-
-**📞 Teléfono:** (+34) 644 61 91 18
+📱 Teléfono: (+34) 644 61 91 18
 
 </div>
 <div align="center">
+El verdadero crecimiento sucede cuando enfrentas retos y los transformas en oportunidades de aprendizaje.
 
-> *El verdadero crecimiento profesional sucede cuando te enfrentas a nuevos retos y los transformas en oportunidades de aprendizaje.*
+— Justo García Ferrández
 
-⭐ **¡No dudes en dejar una estrella a mis repositorios si te resultan útiles!** ⭐
+⭐ Si alguno de mis proyectos te ayuda, ¡déjame una estrella! ⭐
+
+
+</div> ```
