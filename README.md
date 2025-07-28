@@ -160,9 +160,9 @@ IES Las Espeñetas, Orihuela
 
 ---
 
-⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!** ⭐
-
 <div align="center">
+  
+⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!** ⭐
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jusdorado.Jusdorado)
 
