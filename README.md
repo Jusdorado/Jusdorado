@@ -136,9 +136,8 @@ IES Las Espeñetas, Orihuela
 * **Tecnologías:** Astro, TypeScript, React, PNPM
 * **Estado:** ✅ Completado
 
-<a href="https://morosalmohabenos.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visitar_Web-morosalmohabenos.com-6B21A8?style=for-the-badge&logo=firefox-browser&logoColor=FFD700" alt="Visitar Web">
-</a>
+[![Ver Sitio Web](https://img.shields.io/badge/Visitar_Web-morosalmohabenos.com-6B21A8?style=for-the-badge&logo=firefox-browser&logoColor=FFD700)](https://morosalmohabenos.com)
+
 
 ---
 
