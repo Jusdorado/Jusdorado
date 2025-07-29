@@ -169,7 +169,10 @@ IES Las Espeñetas, Orihuela
 
 ---
 
-<h2 align='left'>Thank You ❤</h2>
-<p align="center">
+<div align="center">
+  
+**❤ Thank You ❤**
+
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
+  
+</div>	
