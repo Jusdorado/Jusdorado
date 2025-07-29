@@ -125,8 +125,18 @@ IES Las Espeñetas, Orihuela
 
 ---
 
+
 ## 📂 Proyectos Destacados
 
+### 🎪 **Moros Almohabenos - Sitio Web Oficial**
+
+> Plataforma digital para la comparsa festera de Orihuela
+
+* **Funcionalidades:** Galería multimedia, calendario de eventos, sección histórica, formulario de contacto
+* **Tecnologías:** Astro, TypeScript, React, PNPM
+* **Estado:** ✅ Completado
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Jusdorado/moros-almohabenos)
 
 ---
 
@@ -173,7 +183,7 @@ IES Las Espeñetas, Orihuela
 
 <div align="center">
   
-**❤ Thank You ❤**
+## **❤ Thank You ❤**
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
   
