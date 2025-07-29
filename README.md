@@ -31,6 +31,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Make](https://img.shields.io/badge/Make-A020F0?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FA5C00?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
