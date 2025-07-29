@@ -15,7 +15,7 @@
 
 ¡Hola! 👋 Soy **Justo García Ferrández**, programador junior con base en **Orihuela (Alicante)**. Me especializo en **inteligencia artificial**, **automatización** y **redes**. Actualmente, estoy formándome también en programación web, tanto **frontend** como **backend**, y tengo experiencia con automatizaciones usando herramientas como **Make** y **n8n**.
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 >✔ Actualmente vivo en Orihuela, Alicante 🇪🇸<br>
 ✔ Idiomas que hablo: Español (Nativo), Inglés (B1), Valenciano (B1) 🌍<br>
