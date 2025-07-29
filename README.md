@@ -136,7 +136,7 @@ IES Las Espeñetas, Orihuela
 * **Tecnologías:** Astro, TypeScript, React, PNPM
 * **Estado:** ✅ Completado
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Jusdorado/moros-almohabenos)
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Raullopez20/Frontend_TFG)
 
 ---
 
