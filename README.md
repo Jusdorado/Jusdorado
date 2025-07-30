@@ -143,6 +143,11 @@ IES Las Espeñetas, Orihuela
 
 ## 📊 Estadísticas de GitHub
 
+<div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=maroongold&show_private=true" alt="Estadísticas de GitHub" style="width: 100%;" />
+
+</div>
 
 <div>
 
@@ -150,13 +155,6 @@ IES Las Espeñetas, Orihuela
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más usados" style="width: 50%;" />
 
 </div>
-
-<div>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=maroongold&show_private=true" alt="Estadísticas de GitHub" style="width: 100%;" />
-
-</div>
-
 
 
 ---
