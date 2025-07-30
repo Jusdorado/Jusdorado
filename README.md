@@ -152,7 +152,7 @@ IES Las Espeñetas, Orihuela
 <div>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=maroongold&hide_border=false" alt="Racha de commits" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más usados" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más usados" style="width: 49%;" />
 
 </div>
 
