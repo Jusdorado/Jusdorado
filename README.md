@@ -149,7 +149,8 @@ IES Las Espeñetas, Orihuela
 
 ![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight&count_private=true)
+
 
 </div>
 
