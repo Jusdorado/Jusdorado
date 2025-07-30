@@ -143,16 +143,24 @@ IES Las Espeñetas, Orihuela
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=maroongold&show_private=true)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: start;">
 
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=maroongold&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=maroongold&show_private=true" alt="Estadísticas de GitHub" style="width: 49%; min-width: 300px;" />
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=maroongold&hide_border=false" alt="Racha de commits" style="width: 49%; min-width: 300px;" />
 
 </div>
+
+<br/>
+
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más usados" />
+
+</div>
+
+
 
 ---
 
