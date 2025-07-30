@@ -145,11 +145,11 @@ IES Las Espeñetas, Orihuela
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jusdorado&show_icons=true&theme=maroongold&show_private=true)
 
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=tokyonight)
+![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Jusdorado&theme=maroongold&hide_border=false)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&layout=compact&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusdorado&theme=maroongold&show_icons=true&hide_border=false&layout=compact)
 
 
 </div>
