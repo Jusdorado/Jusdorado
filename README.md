@@ -133,6 +133,16 @@ IES Las Espeñetas, Orihuela
 
 > Plataforma digital para la comparsa festera de Orihuela
 
+<details>
+<summary>🖌️ <strong>Autores</strong></summary>
+  
+<br>
+
+  - [@Raullopez20](https://www.github.com/Raullopez20)
+  - [Yo](https://www.github.com/Jusdorado)
+
+</details>
+
 * **Funcionalidades:** Galería multimedia, calendario de eventos, sección histórica, formulario de contacto
 * **Tecnologías:** Astro, TypeScript, React, PNPM
 * **Estado:** ✅ Completado
