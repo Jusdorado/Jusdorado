@@ -179,9 +179,10 @@ IES Las Espeñetas, Orihuela
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jusdorado)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justo.garcia.2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justo-garcía-ferrández)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jusdorado.github.io/portafolio-justo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-justo-blush.vercel.app)
 
-**📞 Teléfono:** (+34) 644 61 91 18
+**📞 Teléfono:** 
+[+34 644 61 91 18](tel:+34644619118)
 
 </div>
 
